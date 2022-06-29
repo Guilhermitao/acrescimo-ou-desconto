@@ -1,0 +1,6 @@
+c:\users\tecnico\documents\visual studio 2015\Projects\acrescimo ou desconto\acrescimo ou desconto\bin\Debug\acrescimo ou desconto.exe.config
+c:\users\tecnico\documents\visual studio 2015\Projects\acrescimo ou desconto\acrescimo ou desconto\bin\Debug\acrescimo ou desconto.exe
+c:\users\tecnico\documents\visual studio 2015\Projects\acrescimo ou desconto\acrescimo ou desconto\bin\Debug\acrescimo ou desconto.pdb
+c:\users\tecnico\documents\visual studio 2015\Projects\acrescimo ou desconto\acrescimo ou desconto\obj\Debug\acrescimo ou desconto.csprojResolveAssemblyReference.cache
+c:\users\tecnico\documents\visual studio 2015\Projects\acrescimo ou desconto\acrescimo ou desconto\obj\Debug\acrescimo ou desconto.exe
+c:\users\tecnico\documents\visual studio 2015\Projects\acrescimo ou desconto\acrescimo ou desconto\obj\Debug\acrescimo ou desconto.pdb
